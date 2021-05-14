@@ -40,7 +40,7 @@
   "bugs": {
     "url": "https://github.com/BryanRonnie/bryanronnie.github.io/issues"
   },
-  "homepage": "https://bryanronnie.github.io",
+  "homepage": "https://bryanronnie.github.io/public/index.html",
   "browserslist": {
     "production": [
       ">0.2%",
