@@ -2,9 +2,9 @@
   "name": "bryanronnie.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  
-  "private": true,
+  "main": "src/index.js",
+  "homepage": "https://bryanronnie.github.io",
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
@@ -40,7 +40,6 @@
   "bugs": {
     "url": "https://github.com/BryanRonnie/bryanronnie.github.io/issues"
   },
-  "homepage": "https://bryanronnie.github.io/public/index.html",
   "browserslist": {
     "production": [
       ">0.2%",
