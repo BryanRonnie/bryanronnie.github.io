@@ -37,6 +37,9 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=10"
+  },
   "bugs": {
     "url": "https://github.com/BryanRonnie/bryanronnie.github.io/issues"
   },
