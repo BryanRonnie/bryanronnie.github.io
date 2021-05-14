@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
-  "homepage": "https://bryanronnie.github.io",
+  "homepage": "https://bryanronnie.github.io/bryanronnie.github.io",
   "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
