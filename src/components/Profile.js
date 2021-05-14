@@ -29,13 +29,13 @@ class Profile extends React.Component {
           <NavItem>
             <NavLink className={classnames({ active: this.state.activeTab === '1' })}
                      onClick={() => { this.toggle('1'); }}>
-              Experience
+              <a href="">Experience</a>
             </NavLink>
           </NavItem>
           <NavItem>
             <NavLink className={classnames({ active: this.state.activeTab === '2' })}
                      onClick={() => { this.toggle('2'); }}>
-              Education
+               <a href="">Education</a>
             </NavLink>
           </NavItem>
         </Nav>

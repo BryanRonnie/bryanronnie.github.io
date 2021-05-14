@@ -23,8 +23,8 @@ class TopBar extends React.Component {
       <Navbar color="dark" dark expand="md">
         <Container>
           <NavbarBrand href="/">
-            <img src={profilePic} className="profile-pic" alt="Oswaldo Díaz"/>
-            <span>Oswaldo Díaz</span>
+            <img src={profilePic} className="profile-pic" alt="Bryan Ronnie"/>
+            <span>Bryan Ronnie</span>
           </NavbarBrand>
           <NavbarToggler onClick={this.toggle}/>
           <Collapse isOpen={this.state.isOpen} navbar>

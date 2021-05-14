@@ -1,4 +1,5 @@
 a {
+    text-decoration: none;
 }
 
 a:hover {
@@ -57,4 +58,8 @@ footer a {
     font-size: 30px;
     margin-right: 10px;
     margin-left: 10px;
+}
+
+.bg-dark {
+    background-color: #212529 !important;
 }
